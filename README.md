@@ -1,0 +1,1 @@
+This project is real-time interactive interface for both students and admin. The folder "backend" contains all the backend and database code made using Javascript,MongoDB(Node.js) and the folder "public-frontend" contains all the frontend code made using HTMl and CSS
